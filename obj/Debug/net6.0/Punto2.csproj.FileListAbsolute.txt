@@ -1,0 +1,45 @@
+C:\Users\POLITÉCNICO\Documents\Punto2\bin\Debug\net6.0\Punto2.exe
+C:\Users\POLITÉCNICO\Documents\Punto2\bin\Debug\net6.0\Punto2.deps.json
+C:\Users\POLITÉCNICO\Documents\Punto2\bin\Debug\net6.0\Punto2.runtimeconfig.json
+C:\Users\POLITÉCNICO\Documents\Punto2\bin\Debug\net6.0\Punto2.dll
+C:\Users\POLITÉCNICO\Documents\Punto2\bin\Debug\net6.0\Punto2.pdb
+C:\Users\POLITÉCNICO\Documents\Punto2\obj\Debug\net6.0\Punto2.csproj.AssemblyReference.cache
+C:\Users\POLITÉCNICO\Documents\Punto2\obj\Debug\net6.0\Punto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POLITÉCNICO\Documents\Punto2\obj\Debug\net6.0\Punto2.AssemblyInfoInputs.cache
+C:\Users\POLITÉCNICO\Documents\Punto2\obj\Debug\net6.0\Punto2.AssemblyInfo.cs
+C:\Users\POLITÉCNICO\Documents\Punto2\obj\Debug\net6.0\Punto2.csproj.CoreCompileInputs.cache
+C:\Users\POLITÉCNICO\Documents\Punto2\obj\Debug\net6.0\Punto2.dll
+C:\Users\POLITÉCNICO\Documents\Punto2\obj\Debug\net6.0\refint\Punto2.dll
+C:\Users\POLITÉCNICO\Documents\Punto2\obj\Debug\net6.0\Punto2.pdb
+C:\Users\POLITÉCNICO\Documents\Punto2\obj\Debug\net6.0\Punto2.genruntimeconfig.cache
+C:\Users\POLITÉCNICO\Documents\Punto2\obj\Debug\net6.0\ref\Punto2.dll
+C:\Users\USER\Documents\Construccion\Punto2\bin\Debug\net6.0\Punto2.exe
+C:\Users\USER\Documents\Construccion\Punto2\bin\Debug\net6.0\Punto2.deps.json
+C:\Users\USER\Documents\Construccion\Punto2\bin\Debug\net6.0\Punto2.runtimeconfig.json
+C:\Users\USER\Documents\Construccion\Punto2\bin\Debug\net6.0\Punto2.dll
+C:\Users\USER\Documents\Construccion\Punto2\bin\Debug\net6.0\Punto2.pdb
+C:\Users\USER\Documents\Construccion\Punto2\obj\Debug\net6.0\Punto2.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Construccion\Punto2\obj\Debug\net6.0\Punto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Construccion\Punto2\obj\Debug\net6.0\Punto2.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Construccion\Punto2\obj\Debug\net6.0\Punto2.AssemblyInfo.cs
+C:\Users\USER\Documents\Construccion\Punto2\obj\Debug\net6.0\Punto2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Construccion\Punto2\obj\Debug\net6.0\Punto2.dll
+C:\Users\USER\Documents\Construccion\Punto2\obj\Debug\net6.0\refint\Punto2.dll
+C:\Users\USER\Documents\Construccion\Punto2\obj\Debug\net6.0\Punto2.pdb
+C:\Users\USER\Documents\Construccion\Punto2\obj\Debug\net6.0\Punto2.genruntimeconfig.cache
+C:\Users\USER\Documents\Construccion\Punto2\obj\Debug\net6.0\ref\Punto2.dll
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\bin\Debug\net6.0\Punto2.exe
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\bin\Debug\net6.0\Punto2.deps.json
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\bin\Debug\net6.0\Punto2.runtimeconfig.json
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\bin\Debug\net6.0\Punto2.dll
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\bin\Debug\net6.0\Punto2.pdb
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\obj\Debug\net6.0\Punto2.csproj.AssemblyReference.cache
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\obj\Debug\net6.0\Punto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\obj\Debug\net6.0\Punto2.AssemblyInfoInputs.cache
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\obj\Debug\net6.0\Punto2.AssemblyInfo.cs
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\obj\Debug\net6.0\Punto2.csproj.CoreCompileInputs.cache
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\obj\Debug\net6.0\Punto2.dll
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\obj\Debug\net6.0\refint\Punto2.dll
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\obj\Debug\net6.0\Punto2.pdb
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\obj\Debug\net6.0\Punto2.genruntimeconfig.cache
+C:\Users\POLITÉCNICO\Documents\Nueva carpeta\Punto2\obj\Debug\net6.0\ref\Punto2.dll
